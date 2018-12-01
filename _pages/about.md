@@ -16,4 +16,6 @@ Research Areas
   - Dopamine function
   - Reward valuation
   - Self-control
-- Decision-making outside the laboratory ("Real-world decisions")
+  
+- Decision-making outside the laboratory ("Real-world" decisions)
+
