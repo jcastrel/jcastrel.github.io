@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[View/Download Full CV](https://jcastrel.github.io/files/Jaime_Castrellon_CV.pdf)
+======
+
 Education
 ======
 * Ph.D in Psychology & Neuroscience (Cognitive Neuroscience Area), Duke University, 2022 (expected)
