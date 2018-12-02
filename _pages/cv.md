@@ -20,15 +20,15 @@ Education
 Past Experiences
 ======
 * 2016-2017: UCLA
-  * Laboratory Manager, Cognitive & Clinical Neuroscience Lab 
+  * Laboratory Manager, [Cognitive & Clinical Neuroscience Lab](https://karlsgodtlab.psych.ucla.edu/)
   * PI: Katherine Karlsgodt, Ph.D.
 
 * 2014-2016: Vanderbilt University
-  * Research Analyst, Affective Neuroscience Lab 
+  * Research Analyst, [Affective Neuroscience Lab](http://zaldlab.psy.vanderbilt.edu/)
   * PI: David Zald, Ph.D.
 
 * 2012-2014: University of Southern California
-  * Research Assistant, Emotion & Cognition Lab 
+  * Research Assistant, [Emotion & Cognition Lab](http://gero.usc.edu/labs/matherlab/)
   * PI: Mara Mather, Ph.D.
   
 Awards & Funding
