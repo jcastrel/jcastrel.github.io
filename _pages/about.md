@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a graduate student in the (Department of Psychology & Neuroscience)[https://psychandneuro.duke.edu/],(Cognition & Cognitive Neuroscience area). My primary affiliation is with the [Motivated Cognition & Aging Brain Lab](https://www.mcablab.science/) under the mentorship of Gregory Samanez-Larkin, Ph.D.
+Hello! I’m a graduate student in the [Department of Psychology & Neuroscience](https://psychandneuro.duke.edu/)(Cognition & Cognitive Neuroscience area). My primary affiliation is with the [Motivated Cognition & Aging Brain Lab](https://www.mcablab.science/) under the mentorship of Gregory Samanez-Larkin, Ph.D.
 
 Research Areas
 ======
