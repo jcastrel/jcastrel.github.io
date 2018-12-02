@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m a graduate student in the Department of Psychology & Neuroscience (Cognition & Cognitive Neuroscience area). My primary affiliation is with the Motivated Cognition & Aging Brain Lab under the mentorship of Gregory Samanez-Larkin, Ph.D.
+Hello! I’m a graduate student in the (Department of Psychology & Neuroscience)[https://psychandneuro.duke.edu/],(Cognition & Cognitive Neuroscience area). My primary affiliation is with the [Motivated Cognition & Aging Brain Lab](https://www.mcablab.science/) under the mentorship of Gregory Samanez-Larkin, Ph.D.
 
 Research Areas
 ======
-- Motivational Neural circuitry
+- Motivational neural circuitry
   - Dopamine function
   - Reward valuation
   - Self-control
   
-- Decision-making outside the laboratory ("Real-world" decisions)
+- Decision-making outside the lab ("real-world" decisions)
 
