@@ -15,11 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## In Press
-**Castrellon, J.J.**, Seaman K.L., Crawford, J.L., Young, J.S., Smith, C.T., Dang, L.C., Hsu, M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (In Press). Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. *Journal of Neuroscience.* [PDF](https://jcastrel.github.io/files/Castrellon_et_al_2018_JNeurosci.pdf)
 
 ## Preprints
-Seaman, K.L., Juarez, E.J., Smith, C.T., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *BioRxiv.* [PDF](https://www.biorxiv.org/content/early/2018/11/15/358200)
+Seaman, K.L., Juarez, E.J., Smith, C.T., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/early/2018/11/15/358200)
+
+Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Reliability of the correlative triad among aging, dopamine, and cognition. *BioRxiv* [BioRxiv](https://www.biorxiv.org/content/early/2018/12/13/494765)
+
+## 2019
+**Castrellon, J.J.**, Seaman K.L., Crawford, J.L., Young, J.S., Smith, C.T., Dang, L.C., Hsu, M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. *Journal of Neuroscience.* [PDF](https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci.pdf) [Cover](https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci_Cover.pdf)
+
 
 ## 2018
 Dang, L.C., Samanez-Larkin, G.R., **Castrellon, J.J.**, Perkins, S.F., Cowan, R.L., Zald, D.H. (2018). Individual differences in dopamine D2 receptor availability correlate with reward valuation. *Cognitive, Affective, & Behavioral Neuroscience.* [PDF](https://jcastrel.github.io/files/Dang_et_al_2018_CABN.pdf)
