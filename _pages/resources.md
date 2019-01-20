@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-##Presentations
+Presentations
 ======
 * [Society for Neuroeconomics 2018 (Best Poster Award Winner)](https://jcastrel.github.io/files/sne_2018.pdf)
 
 * [Cognitive Neuroscience Society 2018](https://jcastrel.github.io/files/cns_2018.pdf)
 
-##Open Science
+Open Science
 ======
 * Pre-registered Hypotheses
 	* [Meta-analysis of DA drug effects on reward discounting](https://osf.io/r8cjw/register/565fb3678c5e4a66b5582f67?view_only=fe7c991b575a43ee88bc9cdc4b93099f)
