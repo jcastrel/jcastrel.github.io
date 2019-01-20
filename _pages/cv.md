@@ -19,22 +19,22 @@ Education
 Past Experiences
 ======
 * 2016-2017: UCLA
-  * Laboratory Manager, [Cognitive & Clinical Neuroscience Lab](https://karlsgodtlab.psych.ucla.edu/)
+  * Laboratory Manager, [Cognitive & Clinical Neuroscience Lab](https://karlsgodtlab.psych.ucla.edu/){:target="_blank"}
   * PI: Katherine Karlsgodt, Ph.D.
 
 * 2014-2016: Vanderbilt University
-  * Research Analyst, [Affective Neuroscience Lab](http://zaldlab.psy.vanderbilt.edu/)
+  * Research Analyst, [Affective Neuroscience Lab](http://zaldlab.psy.vanderbilt.edu/){:target="_blank"}
   * PI: David Zald, Ph.D.
 
 * 2012-2014: University of Southern California
-  * Research Assistant, [Emotion & Cognition Lab](http://gero.usc.edu/labs/matherlab/)
+  * Research Assistant, [Emotion & Cognition Lab](http://gero.usc.edu/labs/matherlab/){:target="_blank"}
   * PI: Mara Mather, Ph.D.
   
 Awards & Funding
 ======
 * Best Poster Award, Society for Neuroeconomics, 2018
 
-* [Duke Bass Connections Project Grant](https://bassconnections.duke.edu/project-teams/using-neuroscience-optimize-digital-health-interventions-across-adulthood-2018-2019)
+* [Duke Bass Connections Project Grant](https://bassconnections.duke.edu/project-teams/using-neuroscience-optimize-digital-health-interventions-across-adulthood-2018-2019){:target="_blank"}
 
 * National Science Foundation Graduate Research Fellowship
 
