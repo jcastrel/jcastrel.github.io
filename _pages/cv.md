@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### [View/Download Full CV](https://jcastrel.github.io/files/Jaime_Castrellon_CV.pdf)
+### [View/Download Full CV](https://jcastrel.github.io/files/Jaime_Castrellon_CV.pdf){:target="_blank"}
 
 Education
 ======
