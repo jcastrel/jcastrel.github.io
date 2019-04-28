@@ -40,6 +40,11 @@ Awards & Funding
 
 Seminars & Training Fellowships
 ======
+* Summer Institute for Cognitive Neuroscience
+	* The Kavli Foundation
+	* University of California, Santa Barbara, Santa Barbara, CA
+	* June 2019
+
 * SRNDNA Tools of the Trade Workshop
 	* University of California, Los Angeles
 	* March 2017
@@ -60,4 +65,5 @@ Professional Affiliations
 * Social Affective Neuroscience Society
 * Society for Neuroeconomics
 * Association for Psychological Science
+* Organization for Human Brain Mapping
 
