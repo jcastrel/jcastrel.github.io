@@ -17,14 +17,13 @@ author_profile: true
 
 
 ## Preprints
-Seaman, K.L., Juarez, E.J., Smith, C.T., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/early/2018/11/15/358200){:target="_blank"}
-
 Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Reliability of the correlative triad among aging, dopamine, and cognition. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/early/2018/12/13/494765){:target="_blank"}
 
 ## 2019
+Seaman, K.L., Smith, C.T., Juarez, E.J., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *Human Brain Mapping.* [Link](https://onlinelibrary.wiley.com/doi/10.1002/hbm.24585){:target="_blank"}
+
 <img align="right" width="250" height="321" src="https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci_Cover.jpg">
 **Castrellon, J.J.**, Seaman K.L., Crawford, J.L., Young, J.S., Smith, C.T., Dang, L.C., Hsu, M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Individual differences in dopamine are associated with reward discounting in clinical groups but not in healthy adults. *Journal of Neuroscience.* [PDF](https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci.pdf){:target="_blank"} [Cover](https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci_Cover.pdf){:target="_blank"} 
-
 
 
 ## 2018

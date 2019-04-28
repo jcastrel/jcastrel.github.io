@@ -9,6 +9,8 @@ author_profile: true
 
 Presentations
 ======
+* [Social Affective Neuroscience Society 2019](https://jcastrel.github.io/files/sans_2019.pdf){:target="_blank"}
+
 * [Society for Neuroeconomics 2018 (Best Poster Award Winner)](https://jcastrel.github.io/files/sne_2018.pdf){:target="_blank"}
 
 * [Cognitive Neuroscience Society 2018](https://jcastrel.github.io/files/cns_2018.pdf){:target="_blank"}
