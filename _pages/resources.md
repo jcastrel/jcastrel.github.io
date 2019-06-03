@@ -9,7 +9,9 @@ author_profile: true
 
 Presentations
 ======
-* [Society of Biological Psychiatry 2019](https://jcastrel.github.io/files/sobp_2019.pdf){:target="_blank"}
+* [Organization for Human Brain Mapping 2019](https://jcastrel.github.io/files/ohbm_2019.pdf){:target="_blank"})
+
+* [Society of Biological Psychiatry 2019 (Undergraduate mentees presented)](https://jcastrel.github.io/files/sobp_2019.pdf){:target="_blank"}
 
 * [Social Affective Neuroscience Society 2019](https://jcastrel.github.io/files/sans_2019.pdf){:target="_blank"}
 
