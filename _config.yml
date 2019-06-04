@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaime J. Castrellon, PhD Student"
+title                    : "Jaime J. Castrellon"
 title_separator          : "-"
 name                     : &name "Jaime J. Castrellon"
 description              : &description "PhD Student at Duke University"
