@@ -26,6 +26,15 @@ Open Science
 	* [Individual differences in dopamine D2 receptors and self-control in everyday life](https://osf.io/vnq8h/register/565fb3678c5e4a66b5582f67?view_only=3955c0cf9baf4647a0abc33b9719fb11){:target="_blank"}
 
 * Data
+	* Raw fMRI and dopamine PET data from 25 healthy young adults (from Castrellon et al., 2019. BioRxiv)
+		* [OpenNeuro](https://openneuro.org/datasets/ds002041){:target="_blank"}
 	* Dopamine D2 receptor availability & reward discounting (from Castrellon et al., 2018. JNeurosci.)
 		* [OSF](https://osf.io/htq56/){:target="_blank"}
 		* [Neurovault](https://neurovault.org/collections/3868/){:target="_blank"}
+	
+Fellowships & Grants Applications
+======
+* NSF Graduate Research Fellowship (2016-2017 application cycle)
+	* [Research Plan Statement](https://jcastrel.github.io/files/nsf_grfp_research_plan_statement.pdf){:target="_blank"}
+	* [Personal Statement](https://jcastrel.github.io/files/nsf_grfp_personal_statement.pdf){:target="_blank"}
+	* [Rating Sheet](https://jcastrel.github.io/files/nsf_grfp_ratings.pdf){:target="_blank"}
