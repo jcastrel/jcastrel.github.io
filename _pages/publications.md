@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## Preprints
-Castrellon, J.J., Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/10.1101/718858v1){:target="_blank"}
+**Castrellon, J.J.**, Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/10.1101/718858v1){:target="_blank"}
 
 Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2018). Reliability of the correlative triad among aging, dopamine, and cognition. *BioRxiv.* [BioRxiv](https://www.biorxiv.org/content/early/2018/12/13/494765){:target="_blank"}
 
