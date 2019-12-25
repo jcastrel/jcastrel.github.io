@@ -21,7 +21,7 @@ Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., S
 
 
 ## 2019
-**Castrellon, J.J.**, Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019, In press). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *Scientific Reports.* [Link](www.nature.com/articles/s41598-019-56858-1){:target="_blank"}
+**Castrellon, J.J.**, Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *Scientific Reports.* [Link](www.nature.com/articles/s41598-019-56858-1){:target="_blank"}
 
 Seaman, K.L., Smith, C.T., Juarez, E.J., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *Human Brain Mapping.* [Link](https://onlinelibrary.wiley.com/doi/10.1002/hbm.24585){:target="_blank"}
 
