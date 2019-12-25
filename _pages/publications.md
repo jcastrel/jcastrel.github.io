@@ -17,11 +17,12 @@ author_profile: true
 
 
 ## In press
-**Castrellon, J.J.**, Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019, In press). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *Scientific Reports.* [Preprint Link](https://www.biorxiv.org/content/10.1101/718858v1){:target="_blank"}
+Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2020, In press). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. *Psychology and Aging.* [Link](https://psycnet.apa.org/record/2019-59382-001){:target="_blank"}
 
-Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019, In press). Reliability of the correlative triad among aging, dopamine, and cognition. *Psychology and Aging.* [Preprint Link](https://www.biorxiv.org/content/10.1101/494765v3){:target="_blank"}
 
 ## 2019
+**Castrellon, J.J.**, Young, J.S., Dang, L.C., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019, In press). Mesolimbic dopamine D2 receptors and neural representations of subjective value. *Scientific Reports.* [Link](www.nature.com/articles/s41598-019-56858-1){:target="_blank"}
+
 Seaman, K.L., Smith, C.T., Juarez, E.J., Dang, L.C., **Castrellon, J.J.**, Burgess, L.L., San Juan, M.D., Kundzicz, P.M., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2019). Differential regional decline in dopamine receptor availability across adulthood: Linear and nonlinear effects of age. *Human Brain Mapping.* [Link](https://onlinelibrary.wiley.com/doi/10.1002/hbm.24585){:target="_blank"}
 
 <img align="right" width="250" height="321" src="https://jcastrel.github.io/files/Castrellon_et_al_2019_JNeurosci_Cover.jpg">
