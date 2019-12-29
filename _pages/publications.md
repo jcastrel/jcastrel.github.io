@@ -18,6 +18,7 @@ author_profile: true
 
 ## In press
 Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2020, In press). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. *Psychology and Aging.* [Link](https://psycnet.apa.org/record/2019-59382-001){:target="_blank"}
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
 
 
 ## 2019
