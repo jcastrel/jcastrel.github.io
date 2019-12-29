@@ -40,6 +40,7 @@ Seaman, K.L., Smith, C.T., Juarez, E.J., Dang, L.C., **Castrellon, J.J.**, Burge
 
 ## 2018
 Dang, L.C., Samanez-Larkin, G.R., **Castrellon, J.J.**, Perkins, S.F., Cowan, R.L., Zald, D.H. (2018). Individual differences in dopamine D2 receptor availability correlate with reward valuation. *Cognitive, Affective, & Behavioral Neuroscience.* [PDF](https://jcastrel.github.io/files/Dang_et_al_2018_CABN.pdf){:target="_blank"}
+<div class='altmetric-embed' data-doi="10.3758/s13415-018-0601-9"></div>
 
 Seaman, K.L., Brooks, N., Karrer, T., **Castrellon, J.J.**, Perkins, S.F., Dang, L.C., Hsu, M., Zald, D.H., Samanez-Larkin, G.R. (2018). Neural subjective value representation during physical effort, probability, and time discounting are stable across adulthood. *Social Cognitive & Affective Neuroscience.* [PDF](https://jcastrel.github.io/files/Seaman_et_al_2018_SCAN.pdf){:target="_blank"}
 <div class='altmetric-embed' data-doi="10.1093/scan/nsy021"></div>
