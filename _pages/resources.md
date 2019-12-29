@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-#Presentations
+# Presentations
 ======
 * [Society for Neuroeconomics 2019 (Best Poster Award Winner)](https://jcastrel.github.io/files/sne_2019.pdf){:target="_blank"}
 
@@ -21,7 +21,7 @@ author_profile: true
 
 * [Cognitive Neuroscience Society 2018](https://jcastrel.github.io/files/cns_2018.pdf){:target="_blank"}
 
-#Open Science
+# Open Science
 ======
 * Pre-registered Hypotheses
 	* [Meta-analysis of DA drug effects on reward discounting](https://osf.io/r8cjw/register/565fb3678c5e4a66b5582f67?view_only=fe7c991b575a43ee88bc9cdc4b93099f){:target="_blank"}
@@ -34,7 +34,7 @@ author_profile: true
 		* [OSF](https://osf.io/htq56/){:target="_blank"}
 		* [Neurovault](https://neurovault.org/collections/3868/){:target="_blank"}
 	
-#Fellowships & Grants Applications
+# Fellowships & Grants Applications
 ======
 * NSF Graduate Research Fellowship (2016-2017 application cycle)
 	* [Research Plan Statement](https://jcastrel.github.io/files/nsf_grfp_research_plan_statement.pdf){:target="_blank"}
