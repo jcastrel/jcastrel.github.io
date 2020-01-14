@@ -17,11 +17,13 @@ author_profile: true
 
 
 ## Preprints
-Burr, D.A., **Castrellon J.J.**, Zald, D.H., Samanez-Larkin, G.R. (2019, In revision) Emotion dynamics across adulthood in everyday life: older adults are more stable in their affective experiences and better at regulating desires. [Link](https://psyarxiv.com/a3ku2/){:target="_blank"}
-<div class='altmetric-embed' data-doi="10.31234/osf.io/a3ku2"></div>
+
 
 
 ## In press
+Burr, D.A., **Castrellon J.J.**, Zald, D.H., Samanez-Larkin, G.R. (2020, In press) Emotion dynamics across adulthood in everyday life: older adults are more stable in their affective experiences and better at regulating desires. *Emotion.* [Preprint Link](https://psyarxiv.com/a3ku2/){:target="_blank"}
+<div class='altmetric-embed' data-doi="10.31234/osf.io/a3ku2"></div>
+
 Juarez, E.J., **Castrellon, J.J.**, Green, M.A., Crawford, J.L., Seaman, K.L., Smith, C.T., Dang, L.C., Matuskey, D., Morris, E., Cowan, R.L., Zald, D.H., Samanez-Larkin, G.R. (2020, In press). Reproducibility of the correlative triad among aging, dopamine receptor availability, and cognition. *Psychology and Aging.* [Link](https://psycnet.apa.org/record/2019-59382-001){:target="_blank"}
 <div class='altmetric-embed' data-doi="10.1037/pag0000403"></div>
 
