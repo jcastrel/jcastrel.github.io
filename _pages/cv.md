@@ -32,7 +32,9 @@ Past Experiences
   
 Awards & Funding
 ======
-* Best Poster Award, Society for Neuroeconomics, 2018
+* Bass Connections Award for Outstanding Mentorship, Duke University, 2020
+
+* Best Poster Award, Society for Neuroeconomics, 2018 & 2019
 
 * [Duke Bass Connections Project Grant](https://bassconnections.duke.edu/project-teams/using-neuroscience-optimize-digital-health-interventions-across-adulthood-2018-2019){:target="_blank"}
 
