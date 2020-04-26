@@ -22,7 +22,7 @@ author_profile: true
 
 
 ## In press
-Burr, D.A., **Castrellon J.J.**, Zald, D.H., Samanez-Larkin, G.R. (2020, In press) Emotion dynamics across adulthood in everyday life: older adults are more stable in their affective experiences and better at regulating desires. *Emotion.* [Preprint Link](https://psyarxiv.com/a3ku2/){:target="_blank"}
+Burr, D.A., **Castrellon J.J.**, Zald, D.H., Samanez-Larkin, G.R. (2020, In press) Emotion dynamics across adulthood in everyday life: older adults are more stable in their affective experiences and better at regulating desires. *Emotion.* [Preprint Link](https://psyarxiv.com/a3ku2/){:target="_blank"}  
 *Press*
 [WSJ](https://www.wsj.com/articles/the-emotional-benefits-of-getting-older-11587652302){:target="_blank"}, [The Atlantic](https://www.theatlantic.com/ideas/archive/2020/03/weekend-bernies-theory-presidency/607489/){:target="_blank"}
 <div class='altmetric-embed' data-doi="10.1037/emo0000734"></div>
