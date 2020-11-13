@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## In Press
-**Castrellon, J.J.**, Meade, J., Greenwald, L., Hurst, K., Samanez-Larkin, G.R. (In Press). Dopaminergic modulation of reward discounting: a systematic review and meta-analysis. *Psychopharmacology.* [Preprint Link](https://www.biorxiv.org/content/10.1101/2020.04.03.024364v3){:target="_blank"}
+**Castrellon, J.J.**, Meade, J., Greenwald, L., Hurst, K., Samanez-Larkin, G.R. (In Press). Dopaminergic modulation of reward discounting in healthy rats: a systematic review and meta-analysis. *Psychopharmacology.* [Preprint Link](https://www.biorxiv.org/content/10.1101/2020.04.03.024364v3){:target="_blank"}
 <div class='altmetric-embed' data-doi="10.1101/2020.04.03.024364"></div>
 
 ## Preprints
