@@ -14,7 +14,7 @@ Research Areas
 ======
 - Motivational neural circuitry
   - Dopamine function
-  - Reward valuation (discounting & effort)
+  - Reward valuation (discounting & effort) for personal and social rewards
   - Self-control
   
 - Decision-making outside the lab ("real-world" decisions)

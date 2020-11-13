@@ -26,14 +26,20 @@ Presentations
 Open Science
 ======
 * Pre-registered Hypotheses
-	* [Distinct brain mechanisms linked to evidence accumulation and crime-type bias in juror decisions](https://osf.io/rk92x/?view_only=584d90f36ebc4ee79735a5585d8dcc26){:target="_blank"}
+	* [Distinct brain mechanisms linked to evidence accumulation and crime-type bias in juror decisions](https://osf.io/rk92x){:target="_blank"}
 	* [Meta-analysis of DA drug effects on reward discounting](https://osf.io/r8cjw/register/565fb3678c5e4a66b5582f67?view_only=fe7c991b575a43ee88bc9cdc4b93099f){:target="_blank"}
 	* [Individual differences in dopamine D2 receptors and self-control in everyday life](https://osf.io/vnq8h/register/565fb3678c5e4a66b5582f67?view_only=3955c0cf9baf4647a0abc33b9719fb11){:target="_blank"}
 
 * Data
-	* Raw fMRI and dopamine PET data from 25 healthy young adults (from Castrellon et al., 2019. BioRxiv)
+	* Data and Code for juror decision making analysis (from Castrellon et al., 2020. bioRxiv.)
+		* [OSF](https://osf.io/rk92x/){:target="_blank"}
+		* [Github](https://github.com/jcastrel/juror_fmri){:target="_blank"}
+		* [Neurovault](https://neurovault.org/collections/UADNVKNI/){:target="_blank"}
+	* Data and Code for dopamine pharmacology meta analysis (from Castrellon et al., 2020. Psychopharmacology.)
+		* [OSF](https://osf.io/27cqw/){:target="_blank"}
+	* Raw fMRI and dopamine PET data from 25 healthy young adults (from Castrellon et al., 2019. Scientific Reports.)
 		* [OpenNeuro](https://openneuro.org/datasets/ds002041){:target="_blank"}
-	* Dopamine D2 receptor availability & reward discounting (from Castrellon et al., 2018. JNeurosci.)
+	* Data and Code for dopamine D2 receptor availability & reward discounting (from Castrellon et al., 2018. Journal of Neuroscience.)
 		* [OSF](https://osf.io/htq56/){:target="_blank"}
 		* [Neurovault](https://neurovault.org/collections/3868/){:target="_blank"}
 	
