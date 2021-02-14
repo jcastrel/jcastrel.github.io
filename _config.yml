@@ -84,9 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "PhD Candidate at Duke University"
   pronouns		   : "He/Him/His"
-  bold:
-  - YON
   pronounciation   : "hi-meh kah-streh-YON"
+  boldpart		   : "YON"
   location         : "Durham, NC, U.S.A."
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=aANPW2oAAAAJ&hl=en"
