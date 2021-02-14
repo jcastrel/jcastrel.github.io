@@ -32,6 +32,8 @@ Past Experiences
   
 Awards & Funding
 ======
+* Dean's Award for Excellence in Mentoring, Duke University, 2021
+
 * Bass Connections Award for Outstanding Mentorship, Duke University, 2020
 
 * Best Poster Award, Society for Neuroeconomics, 2018 & 2019
